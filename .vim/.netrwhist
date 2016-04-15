@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/tjones/Workspace/rnd_infra/boxes'
+let g:netrw_dirhist_2='/home/tjones/Workspace/rnd_infra/boxes/devel_env'
+let g:netrw_dirhist_3='/home/tjones/Workspace/rnd_infra/boxes'
+let g:netrw_dirhist_4='/home/tjones/Workspace/rnd_infra/boxes/devel_env'
+let g:netrw_dirhist_5='/home/tjones/Workspace/rnd_infra/ansible/public_keys'
